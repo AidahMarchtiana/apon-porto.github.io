@@ -16,3 +16,9 @@ section {
 section {
   padding-top: 5rem;
 }
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
