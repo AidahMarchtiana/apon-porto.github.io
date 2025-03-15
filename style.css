@@ -21,4 +21,9 @@ section {
   display: flex;
   justify-content: center;
   align-items: stretch;
+  .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
 }
