@@ -27,3 +27,8 @@ section {
     height: 100%;
   }
 }
+
+.hover-effect:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
