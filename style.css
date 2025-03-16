@@ -32,3 +32,10 @@ section {
   transform: scale(1.05);
   transition: transform 0.3s ease;
 }
+
+.animate-item {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeIn 0.8s forwards;
+  animation-delay: 0.3s;
+}
