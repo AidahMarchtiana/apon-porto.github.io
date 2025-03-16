@@ -48,7 +48,8 @@ section {
   transition: transform 0.3s ease;
 }
 
-#my-project-title {
+#my-project-title,
+#contact-me-title {
   font-family: "Roboto", sans-serif;
   font-size: 3rem;
   font-weight: bold;
