@@ -59,3 +59,22 @@ section {
   letter-spacing: 2px;
   padding: 20px 0;
 }
+
+/* Efek klik pada tombol */
+.contact-link a:active {
+  transform: scale(0.95); /* Menekan tombol ketika diklik */
+  background-color: #004085; /* Ubah warna saat ditekan */
+}
+
+/* Animasi bayangan saat klik */
+.contact-link a:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.7); /* Menambahkan efek fokus */
+}
+
+/* Konten bagian bawah dengan gradien SVG */
+svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
