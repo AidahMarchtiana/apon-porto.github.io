@@ -2,6 +2,20 @@
   padding-top: 6rem;
   background-color: #e2edff;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+
+#my-skills-title {
+  font-family: "Roboto", sans-serif;
+  font-size: 3rem; /* Ukuran besar */
+  font-weight: bold;
+  color: #4caf50; /* Warna hijau */
+  text-align: center;
+  text-transform: uppercase; /* Ubah menjadi huruf kapital semua */
+  letter-spacing: 2px; /* Spasi antar huruf */
+  padding: 20px 0;
+}
+
 #projects {
   background-color: #e2edff;
 }
