@@ -5,11 +5,12 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
 
-#my-skills-title {
+#my-skills-title,
+#about-me-title {
   font-family: "Roboto", sans-serif;
   font-size: 3rem;
   font-weight: bold;
-  color: #646ac2;
+  color: #4d65d3;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
