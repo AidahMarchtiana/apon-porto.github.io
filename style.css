@@ -7,12 +7,12 @@
 
 #my-skills-title {
   font-family: "Roboto", sans-serif;
-  font-size: 3rem; /* Ukuran besar */
+  font-size: 3rem;
   font-weight: bold;
-  color: #4caf50; /* Warna hijau */
+  color: #646ac2;
   text-align: center;
-  text-transform: uppercase; /* Ubah menjadi huruf kapital semua */
-  letter-spacing: 2px; /* Spasi antar huruf */
+  text-transform: uppercase;
+  letter-spacing: 2px;
   padding: 20px 0;
 }
 
