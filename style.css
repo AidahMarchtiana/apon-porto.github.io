@@ -46,3 +46,7 @@ section {
     transform: translateY(0);
   }
 }
+
+.animate-item:nth-child(1) {
+  animation-delay: 0.2s;
+}
